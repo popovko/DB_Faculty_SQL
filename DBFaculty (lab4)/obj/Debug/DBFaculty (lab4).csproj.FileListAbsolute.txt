@@ -1,0 +1,18 @@
+C:\Users\popov\source\repos\DBFaculty (lab4)\DBFaculty (lab4)\bin\Debug\DBFaculty (lab4).exe.config
+C:\Users\popov\source\repos\DBFaculty (lab4)\DBFaculty (lab4)\bin\Debug\DBFaculty (lab4).exe
+C:\Users\popov\source\repos\DBFaculty (lab4)\DBFaculty (lab4)\bin\Debug\DBFaculty (lab4).pdb
+C:\Users\popov\source\repos\DBFaculty (lab4)\DBFaculty (lab4)\obj\Debug\DBFaculty (lab4).csprojAssemblyReference.cache
+C:\Users\popov\source\repos\DBFaculty (lab4)\DBFaculty (lab4)\obj\Debug\DBFaculty__lab4_.Properties.Resources.resources
+C:\Users\popov\source\repos\DBFaculty (lab4)\DBFaculty (lab4)\obj\Debug\DBFaculty (lab4).csproj.GenerateResource.cache
+C:\Users\popov\source\repos\DBFaculty (lab4)\DBFaculty (lab4)\obj\Debug\DBFaculty (lab4).csproj.CoreCompileInputs.cache
+C:\Users\popov\source\repos\DBFaculty (lab4)\DBFaculty (lab4)\obj\Debug\DBFaculty (lab4).exe
+C:\Users\popov\source\repos\DBFaculty (lab4)\DBFaculty (lab4)\obj\Debug\DBFaculty (lab4).pdb
+C:\Users\popov\source\repos\DBFaculty (lab4)\DBFaculty (lab4)\obj\Debug\DBFaculty__lab4_.MainForm.resources
+C:\Users\popov\source\repos\DBFaculty (lab4)\DBFaculty (lab4)\obj\Debug\DBFaculty__lab4_.FormAddStudent.resources
+C:\Users\popov\source\repos\DBFaculty (lab4)\DBFaculty (lab4)\obj\Debug\DBFaculty__lab4_.FormAddTeacher.resources
+C:\Users\popov\source\repos\DBFaculty (lab4)\DBFaculty (lab4)\obj\Debug\DBFaculty__lab4_.FormAddSubject.resources
+C:\Users\popov\source\repos\DBFaculty (lab4)\DBFaculty (lab4)\obj\Debug\DBFaculty__lab4_.FormAddGroup.resources
+C:\Users\popov\source\repos\DBFaculty (lab4)\DBFaculty (lab4)\obj\Debug\DBFaculty__lab4_.FormAddCommonGroups.resources
+C:\Users\popov\source\repos\DBFaculty (lab4)\DBFaculty (lab4)\obj\Debug\DBFaculty__lab4_.FormAddLesson.resources
+C:\Users\popov\source\repos\DBFaculty (lab4)\DBFaculty (lab4)\obj\Debug\DBFaculty__lab4_.FormSearchStudent.resources
+C:\Users\popov\source\repos\DBFaculty (lab4)\DBFaculty (lab4)\obj\Debug\DBFaculty__lab4_.FormChange.resources
